@@ -1,27 +1,26 @@
-# EstabuloApp
+<p align="center">
+    <img style="display:block;text-align:center" src="https://user-images.githubusercontent.com/25959096/43851144-7c0697f4-9b57-11e8-972b-cb5c6af9a01b.png" alt="logo" width="400" />
+    <img style="display:block;text-align:center" src="https://user-images.githubusercontent.com/25959096/43851190-96e4c596-9b57-11e8-9653-74657d00a99f.png" alt="logo-text" width="600" />
+    <h3 align="center">:construction:&ensp;&ensp;Work In Progress&ensp;&ensp;:construction:</h3>
+    <h1 align="center">Gulp Static Seed</h1>
+    <p align="center" style="font-size: 1.2rem;">A Gulp starter kit for HTML5 static website development with a congenial build process</p>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<!-- Badges -->
+<p align="center">
+  <a href="https://travis-ci.org/brionmario/gulp-static-seed">
+    <img src="https://travis-ci.org/brionmario/gulp-static-seed.svg?branch=master" alt="Build Status" height="18">
+  </a>
+  <a href="#contributors">
+    <img src="https://img.shields.io/badge/all_contributors-1-orange.svg" alt="All Contributors" height="18">
+  </a>
+  <a href="https://david-dm.org/brionmario/gulp-static-seed">
+    <img src="https://david-dm.org/brionmario/gulp-static-seed/status.svg" alt="dependencies Status" height="18">
+  </a>
+  <a href="https://david-dm.org/brionmario/gulp-static-seed?type=dev">
+    <img src="https://david-dm.org/brionmario/gulp-static-seed/dev-status.svg" alt="devDependencies Status" height="18">
+   </a>
+  <a href="LICENSE.md">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" height="18">
+  </a>
+</p>
