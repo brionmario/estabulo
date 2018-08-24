@@ -124,7 +124,7 @@
             "root": "projects/estabulo",
             "sourceRoot": "projects/estabulo/src",
             "projectType": "library",
-            "prefix": "est",
+            "prefix": "estabulo",
             "architect": {
                 "build": {
                     "builder": "@angular-devkit/build-ng-packagr:build",
