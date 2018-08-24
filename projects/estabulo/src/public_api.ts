@@ -2,4 +2,4 @@
  * Public API Surface of estabulo
  */
 
-export * from './tabs.module';
+export * from './tabstrip.module';
