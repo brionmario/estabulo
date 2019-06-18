@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'est-tabstrip',
+  selector: 'estabulo-tabstrip',
   templateUrl: './tabstrip.component.html',
   styleUrls: ['./tabstrip.component.scss']
 })
